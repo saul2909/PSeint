@@ -1,0 +1,14 @@
+Algoritmo Menu
+Definir opcGordita como texto;
+	
+Escribir "Menu Goditas";
+Escribir "A-Gordita de Rajas: ";
+Escribir "B-Gordita de Frijoles: ";
+Escribir "C-Gordita de Queso: ";
+Escribir "D-Gordita de Discada: ";
+Escribir "E-Gordita de Chicharron: ";
+Escribir "Selecciona una letra del menu";
+Leer OpcionGordita;
+
+
+FinAlgoritmo
